@@ -1,0 +1,2 @@
+# RobloxStudio
+ LocalParaGuardarCódigos
